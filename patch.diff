@@ -1,0 +1,21 @@
+From 517e27529e125a2909cee0998ebd218f950873a6 Mon Sep 17 00:00:00 2001
+From: dozen33 <47728401+dozen33@users.noreply.github.com>
+Date: Mon, 18 Feb 2019 11:10:40 +0900
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..2aabd8c
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# practice
+\ No newline at end of file
+-- 
+2.20.1.windows.1
+
